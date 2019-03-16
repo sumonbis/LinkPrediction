@@ -1,8 +1,8 @@
 # Performance Benchmarking for Link Prediction Algorithms in Social Networks
 
-For the past one decade social network has gained a lot of popularity and more users are
-making their online presence to connect with each other. Hence it brings up new challenges of
-analyzing data generated from these users. One such analyses is the social connection between
+For the past one decade, social network has gained a lot of popularity and more users are
+making their online presence to connect. Hence, it brings up new challenges for
+analyzing data generated from these users. One such analysis is the social connection between
 two users. A lot of work has been done in the past with regard to link analysis. From a given
 snapshot of a social network database, we can predict for a given person (or the entire network),
 the people who she can be potentially connected to, by analyzing her existing links. Although
@@ -19,4 +19,4 @@ performance of the queries implemented in the referenced paper : “Implementing
 for social networks in a database system” by Sarah Cohen et al. Our experiment is performed on
 eight different real social network datasets taken from SNAP and DBLP databases. Finally, the
 results verify that the changes brought about in the neo4J schema and query structure improve
-the performance indeed
+the performance.
